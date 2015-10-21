@@ -1,8 +1,11 @@
 # Summary
 
+My simple solution to the Android code challenge. Far from perfect, but written well within the required time bounds.
+
+## Challenge
 Code an Android application that displays information received over the network.
 
-# Details
+### Details
 
 The server at the following url responds with JSON formatted data:
 
@@ -26,7 +29,7 @@ The response represents a list of “Guide” objects:
   }
   ```
 
-# Steps
+### Steps
   
 Try to complete as many of these steps as possible. Within 1 hour, have a working version of your project ready to demonstrate the steps you have completed.
 
